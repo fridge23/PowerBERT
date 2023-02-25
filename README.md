@@ -5,6 +5,6 @@ Abstract:Modern power grids are undergoing significant changes driven by informa
 
 model structure:![image](https://user-images.githubusercontent.com/79786784/190063806-377abf78-d0f9-4b5d-bee2-1c8a9233fd20.png)
 
-Update:
+Update 2023/2/25:
 We propose a new loss function to solve the problem of imbalance dataset in unsupervised learning.
 The code will be updated soonly after our new paper accepted.
